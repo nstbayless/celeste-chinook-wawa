@@ -21,7 +21,7 @@
 # Language (id,label)
 	LANGUAGE=chinook,Chinook Wawa
 	ICON=Icons/chinook-wawa.png
-	ORDER=194
+	ORDER=8194
 
 # Font (Face, Base Size)
 # Use BMFONT to generate the .fnt and image files
@@ -32,22 +32,22 @@
 
 # Auto-Saving
 	AUTOSAVING_TITLE_NS=
-		Hayu ukuk hihi mamuk “Silf-Sif”
+		Hayu “Silf-Sif” ukuk hihi mamuk
 	AUTOSAVING_DESC_NS=
 		wik mimlus lamula qanchi
 		nayka nanich ukuk p̣ikcha
 	AUTOSAVING_TITLE_PS4=
-		Hayu ukuk hihi mamuk “Silf-Sif”
+		Hayu “Silf-Sif” ukuk hihi mamuk
 	AUTOSAVING_DESC_PS4=
 		wik mimlus lamula qanchi
 		nayka nanich ukuk p̣ikcha
 	AUTOSAVING_TITLE_XB1=
-		Hayu ukuk hihi mamuk “Silf-Sif”
+		Hayu “Silf-Sif” ukuk hihi mamuk
 	AUTOSAVING_DESC_XB1=
 		wik mimlus lamula qanchi
 		nayka nanich ukuk p̣ikcha
 	AUTOSAVING_TITLE_PC=
-		Hayu ukuk hihi mamuk “Silf-Sif”
+		Hayu “Silf-Sif” ukuk hihi mamuk
 	AUTOSAVING_DESC_PC=
 		wik mimlus lamula qanchi
 		nayka nanich ukuk p̣ikcha
@@ -109,7 +109,7 @@
 	KEY_CONFIG_GRAB=		Hol
 	KEY_CONFIG_TALK=		Wawa
 	KEY_CONFIG_MENUS=		ALIM-PIPA
-	KEY_CONFIG_CONFIRM=		Aha
+	KEY_CONFIG_CONFIRM=		Delet
 	KEY_CONFIG_CANCEL=		Mash
 	KEY_CONFIG_PAUSE=		Alim
 	KEY_CONFIG_JOURNAL=		Sanpipa
@@ -121,7 +121,7 @@
 	BTN_CONFIG_TITLE=		Tsiltsil Stayl
 	BTN_CONFIG_INFO=		MAMUK | POS MANAQI TSILTSIL, | POS MASH KANAWI TSILTSIL
 	BTN_CONFIG_CHANGING=	MAMUK WƏXT TSILTSIL POS
-	BTN_CONFIG_NOCONTROLLER=Nixwa Paɬach ixt Tsiltsil-Ikta
+	BTN_CONFIG_NOCONTROLLER=Nixwa Paɬach ixt Tsiltsil-Lamula
 
 # PICO-8
 	PICO8_UNLOCKED=			Chxi Hihi Miɬayt Kopa Main Menu
@@ -135,9 +135,9 @@
 	FILE_CORRUPTED=		Kakshet :(
 	FILE_FAILEDTOLOAD=	Wik-qata Xalaqɬ
 	FILE_NEWGAME=		Chxi Hihi!
-	FILE_CONTINUE=		K'ilapay
+	FILE_CONTINUE=		ꞭATWA
 	FILE_DELETE=		Mash Hihi
-	FILE_BEGIN=			ꞭATWA
+	FILE_BEGIN=			CHXIꞭATWA
 	FILE_ASSIST_OFF=	Hilp Stayl : WIK
 	FILE_ASSIST_ON=		Hilp Stayl : DELET
 	FILE_VARIANT_OFF=	Xluyma Stayl : WIK
@@ -151,17 +151,17 @@
 #*
 # Assist Mode #*
 	ASSIST_MODE_0=
-		{# 44adf7}Hilp Stayl{#} allows you to modify{n}
-		the game's rules to fit your specific needs.		
+		{# 44adf7}Hilp Stayl{#} hilp mayka mamuk hihi{n}
+		kakwa qata mayka tikitiki.
 	ASSIST_MODE_1=
-		This includes options such as slowing the game speed,{n}
-		granting yourself invincibility or infinite stamina,{n}
-		and skipping chapters entirely.
+		Spos manaqi ɬawa hihi mayka tiki, əbə spos hilu mayka tiki{n}
+		chako kakshet, əbə spos hilu mayka tiki chako til, əbə spos{n}
+		hilu mayka tiki hihi ixt q'əl sitkam, hayaq mamuk ukuk stayl.
 	ASSIST_MODE_2=
-		Celeste is intended to be a challenging and rewarding experience.{n}
-		If the default game proves inaccessible to you, we hope that{n} 
-		you can still find that experience with {# 44adf7}Hilp Stayl{#}.
-	ASSIST_ASK=		Nayka tiki mamuk {# 44adf7}Hilp Stayl{#} hihi?
+		Ilip ɬush pos Selest mamuk kikwili-təmtəm mayka, kakwa hayaq chako{n}
+		saxali-təmtəm. Spos wik-qata mayka mamuk hihi, nsayka tiki pos{n} 
+		kanamakwst {# 44adf7}Hilp Stayl{#} hayaq mayka tɬap ukuk təmtəm.
+	ASSIST_ASK=		Mayka tiki mamuk {# 44adf7}Hilp Stayl{#} hihi?
 	ASSIST_YES=		Delet
 	ASSIST_NO=		Wik
 	ASSIST_SKIP=	Q'o7{n}Ubuut
@@ -169,10 +169,10 @@
 # File Naming
 	NAME_LETTERS=
 		ABCDEFGHI abcdefghi
-		JKLMNOPQR jklmnopqr
-		STUVWXYZꞭ  stuvwxyzɬ
-		1234567890+=:~!@$%
-		^&*_-#"'()<>/\.,əƏ
+		JKLꞭMNOPQ jklɬmnopq
+		RSTUVWXYZ rstuvwxyz
+		1234567890+=:~!@əƏ
+		^&*_-#"'()<>/\.,$%
 
 	NAME_SPACE=			hilu
 	NAME_BACKSPACE=		mash
@@ -183,7 +183,7 @@
 	XB1_MENU_SWITCH_PROFILE=	Switch Profile
 	XB1_SIGN_OUT_MESSAGE=		A sign-in change has occured. Please sign back in or exit to the title screen.
 	XB1_SIGN_IN=				Sign-in
-	XB1_RECONNECT_CONTROLLER=	Nixwa paɬach tsiltsil-ikta pos manaqi ɬatwa.
+	XB1_RECONNECT_CONTROLLER=	Nixwa paɬach tsiltsil-lamula pos manaqi ɬatwa.
 
 # Intro Vignette
 	INTRO_VIGNETTE_RESUME=	K'ilapay kopa pikcha
@@ -191,13 +191,13 @@
 	INTRO_VIGNETTE_QUIT=	Kopit hihi
 
 # Overworld
-	OVERWORLD_START=			Ɬatwa
+	OVERWORLD_START=			CHXIꞭATWA
 	OVERWORLD_NORMAL=			CHXIꞭATWA
 	OVERWORLD_INTERLUDE=		CHXIꞭATWA
-	OVERWORLD_REMIX=			B-SIDE
-	OVERWORLD_REMIX2=			C-SIDE
-	OVERWORLD_REMIX_UNLOCKED=	Ɬax B-Side!
-	OVERWORLD_REMIX_UNLOCKED2=	Ɬax C-Side!
+	OVERWORLD_REMIX=			B-INATAY
+	OVERWORLD_REMIX2=			C-INATAY
+	OVERWORLD_REMIX_UNLOCKED=	Alta chako ɬax B-Inatay!
+	OVERWORLD_REMIX_UNLOCKED2=	Alta chako ɬax C-Inatay!
 
 # Chapter Titles
 	AREA_CHAPTER=	Sitkam {x}
@@ -211,7 +211,7 @@
 	AREA_7=			Lamotaylatet
 	AREA_8=			Kimt'a-sitkam
 	AREA_9=			Katsaq
-	AREA_10=		Gutbay
+	AREA_10=		Yuɬqat Gutbay
 
 # Checkpoints #*
 	CHECKPOINT_1_0=		Inatay
@@ -237,7 +237,7 @@
 	CHECKPOINT_6_1=		Hilukw'atin
 	CHECKPOINT_6_2=		Shalokam-Nanich
 	CHECKPOINT_6_3=		Delet Kikwili
-	CHECKPOINT_6_4=		Chako ixt-təmtəm
+	CHECKPOINT_6_4=		Chako Ixt-Təmtəm
 
 	CHECKPOINT_7_0=		500 m
 	CHECKPOINT_7_1=		1000 m
@@ -247,17 +247,17 @@
 	CHECKPOINT_7_5=		3000 m
 
 	CHECKPOINT_8_0=		Katsaqni
-	CHECKPOINT_8_1=		Ays pi Paya
-	CHECKPOINT_8_2=		Katsaq kopa Lamotay
+	CHECKPOINT_8_1=		Wam pi Kol
+	CHECKPOINT_8_2=		Lamotay yaka Təmtəm
 
-	CHECKPOINT_9_0=		Singular
-	CHECKPOINT_9_1=		Power Source
-	CHECKPOINT_9_2=		Remembered
-	CHECKPOINT_9_3=		Event Horizon
-	CHECKPOINT_9_4=		Determination
-	CHECKPOINT_9_5=		Stubbornness
-	CHECKPOINT_9_6=		Reconciliation
-	CHECKPOINT_9_7=		Farewell
+	CHECKPOINT_9_0=		Kakwa Kopitixt
+	CHECKPOINT_9_1=		Ileektrik
+	CHECKPOINT_9_2=		Kwanisam Kəmtəks
+	CHECKPOINT_9_3=		Tawn-Saxali
+	CHECKPOINT_9_4=		Skukəm-Təmtəm
+	CHECKPOINT_9_5=		Wik-Qata-Təmtəm
+	CHECKPOINT_9_6=		Wəxt Mamuk Ɬush
+	CHECKPOINT_9_7=		Gutbay
 
 # B-Side Checkpoints
 	CHECKPOINT_1H_0=	Lamula
@@ -267,21 +267,21 @@
 	CHECKPOINT_2H_1=	Musum Lotil
 
 #*
-	CHECKPOINT_3H_0=	Staf Haws
+	CHECKPOINT_3H_0=	Hilp-Tilixam Haws
 	CHECKPOINT_3H_1=	Bukhaws
 	CHECKPOINT_3H_2=	Hawsyapuɬ
 
-	CHECKPOINT_4H_0=	Stepping Stones
-	CHECKPOINT_4H_1=	Gusty Canyon
-	CHECKPOINT_4H_2=	Eye of the Storm
+	CHECKPOINT_4H_0=	Lipyii Ston
+	CHECKPOINT_4H_1=	Kəltəs Win Kanyon
+	CHECKPOINT_4H_2=	Katsaq kopa Hayu-Win
 
-	CHECKPOINT_5H_0=	Central Chamber
-	CHECKPOINT_5H_1=	Through the Mirror
-	CHECKPOINT_5H_2=	Mix Master
+	CHECKPOINT_5H_0=	Katsaq-Haws
+	CHECKPOINT_5H_1=	Kimt'a kopa Shalokam
+	CHECKPOINT_5H_2=	Tisik Tilixam
 
-	CHECKPOINT_6H_0=	Reflection
-	CHECKPOINT_6H_1=	Rock Bottom
-	CHECKPOINT_6H_2=	Reprieve
+	CHECKPOINT_6H_0=	Shalokam Shado
+	CHECKPOINT_6H_1=	Delet Kikwili
+	CHECKPOINT_6H_2=	Chakowin
 
 	CHECKPOINT_7H_0=	500 M
 	CHECKPOINT_7H_1=	1000 M
@@ -290,30 +290,30 @@
 	CHECKPOINT_7H_4=	2500 M
 	CHECKPOINT_7H_5=	3000 M
 
-	CHECKPOINT_8H_0=	Into the Core
-	CHECKPOINT_8H_1=	Burning or Freezing
-	CHECKPOINT_8H_2=	Heartbeat
+	CHECKPOINT_8H_0=	Kopa Katsaq
+	CHECKPOINT_8H_1=	Paya əbə Ays
+	CHECKPOINT_8H_2=	Təmtəm Tintin
 
 # Postcards
 	POSTCARD_AREA_1=
-		Tɬap {#ff1144}Sif pi Kopit{#} qanchi alim pos kopit hihi. Aɬqi mayka chakok'ilapay kopa olsim ilihi, hilu hihi mash ikta mayka mamuk!
+		Tɬap {#ff1144}Ts'əm Pipa pi Kopit{#} qanchi alim pos kopit hihi. Aɬqi mayka chakok'ilapay kopa olsim ilihi, hilu hihi mash ikta mayka mamuk!
 
 	POSTCARD_AREA_2=
-		Tɬap {#ff1144}Amuti{#} pos mamuk kikwili-təmtəm mayka sixs, qexchi hilu xluyma. Spos delet mayka tiki, hayaq mayka tɬap!
+		Tɬap {#ff1144}Amuuti{#} pos mamuk kikwili-təmtəm mayka sixs, qexchi hilu xluyma. Spos delet mayka tiki, hayaq mayka tɬap!
 
 	POSTCARD_AREA_3=
 		Ɬush mayka {#ff1144}Mimlus Kw'inin{#} mamuk mayka saxali-təmtəm!{n}Manaqi mimlus, manaqi chako-kəmtəks.{n}Wik kopit!
 
-#*
 	POSTCARD_AREA_4=
-		{# F94A4A}Climbing Tip!{#}{n}Low on energy in a pinch?{n}{n}Jumping away from walls{n}doesn't consume stamina!
+		{# F94A4A}Hilp pos Chako Saxali!{#}{n}Mayka chako til na?{n}{n}Spos mayka sopna ɬaq kopa haws-inatay{n}, hilu chako til mayka!
 
 	POSTCARD_AREA_5=
-		{# F94A4A}Did You Know?{#}{n}Most climbing mishaps{n}occur due to exhaustion.{n}{n}Remember to take regular breaks!
+		{# F94A4A}Mayka Kəmtəks Na?{#}{n}Qanchi chako saxali, ilip hayu ts'ipi{n}spos hyash til.{n}{n}Ɬush mayka hayu alim!
 
 	POSTCARD_AREA_6=
-		{# F94A4A}Did You Know?{#}{n}{n}It is impossible to{n}outrun your own reflection.
+		{# F94A4A}Mayka Kəmtəks Na?{#}{n}{n}Manaqi hayaq pos mayka shado,{n}wik-qata mayka kuli.
 
+#*
 	POSTCARD_CSIDES=
 		Ready for a real challenge?{n}{n}{# F94A4A}C-Sides{#} have been unlocked, and{n}{# dbb63f}Golden Strawberries{#} have appeared{n}at the start of every chapter!{n}{n}Good luck, {+MADELINE}!
 
@@ -322,39 +322,39 @@
 
 # Journal
 	JOURNAL_OF=
-	JOURNAL_PROGRESS=				PROGRESS
-	JOURNAL_SPEEDRUNS=				RECORDS:{n}SPEEDRUNS
-	JOURNAL_DASHES=					RECORDS:{n}FEWEST DASHES
-	JOURNAL_DEATHS=					RECORDS:{n}FEWEST DEATHS
-	JOURNAL_POEM=					CRYSTAL HEARTS
-	JOURNAL_MODE_NORMAL=			CLEAR
-	JOURNAL_MODE_NORMAL_FULLCLEAR=	FULL CLEAR
-	JOURNAL_MODE_BSIDE=				B-SIDE
-	JOURNAL_MODE_CSIDE=				C-SIDE
-	JOURNAL_TOTALS=					TOTALS
-	JOURNAL_GRANDTOTAL=				GRAND TOTAL
+	JOURNAL_PROGRESS=				MAMUK IKTA
+	JOURNAL_SPEEDRUNS=				ILIP:{n}HAYAQKULI
+	JOURNAL_DASHES=					ILIP:{n}TƏNƏS KW'ININ HAYAQ
+	JOURNAL_DEATHS=					ILIP:{n}TƏNƏS KW'ININ MIMLUS
+#*
+	JOURNAL_POEM=					TƏMTƏM STON
+	JOURNAL_MODE_NORMAL=			KOPIT
+	JOURNAL_MODE_NORMAL_FULLCLEAR=	DELET KOPIT
+	JOURNAL_MODE_BSIDE=				B-INATAY
+	JOURNAL_MODE_CSIDE=				C-INATAY
+	JOURNAL_TOTALS=					KANAWI
+	JOURNAL_GRANDTOTAL=				HYASH KANAWI
 
 # Stats
-	STATS_TITLE=			Global Steam Stats
-	STAT_BERRIES=			Strawberries
-	STAT_DEATHS=			Deaths
-	STAT_DASHES=			Dashes
-	STAT_GOLDBERRIES=		Golden Berries
-	STAT_PICO_BERRIES=		PICO-8 Strawberries
-	STAT_PICO_DEATHS=		PICO-8 Deaths
-	STAT_PICO_COMPLETES=	PICO-8 Completes
+	STATS_TITLE=			Kw'inin pos Kanawi Ɬaksta Kopa Steam
+	STAT_BERRIES=			Amuuti
+	STAT_DEATHS=			Mimlus
+	STAT_DASHES=			Hayaq
+	STAT_GOLDBERRIES=		Gul Amuuti
+	STAT_PICO_BERRIES=		PICO-8 Amuuti
+	STAT_PICO_DEATHS=		PICO-8 Mimlus
+	STAT_PICO_COMPLETES=	PICO-8 Kopit
 
 # Saving / Loading Failed
-#*
-	SAVEFAILED_TITLE=	UNABLE TO SAVE
-	SAVEFAILED_RETRY=	Try Again
-	SAVEFAILED_IGNORE=	Continue Without Saving
-	LOADFAILED_TITLE=	UNABLE TO LOAD
-	LOADFAILED_GOBACK=	Go Back
-	LOADFAILED_IGNORE=	Continue Without Saving
+	SAVEFAILED_TITLE=	WIK-QATA TSƏM PIPA
+	SAVEFAILED_RETRY=	Tray Wəxt
+	SAVEFAILED_IGNORE=	Ɬatwa bət hilu ts'əm pipa kopa lamula
+	LOADFAILED_TITLE=	WIK-QATA NANICH PIPA
+	LOADFAILED_GOBACK=	K'ilapay
+	LOADFAILED_IGNORE=	Ɬatwa bət hilu ts'əm pipa kopa lamula
 
 # Tutorial
-	TUTORIAL_CLIMB=		ꞭATWA SAXALI
+	TUTORIAL_CLIMB=		CHAKO SAXALI
 	TUTORIAL_HOLD=		HOL
 	TUTORIAL_DASH=		HAYAQ
 	TUTORIAL_DREAMJUMP=	SOPNA
@@ -363,12 +363,12 @@
 # Area Complete
 	AREACOMPLETE_NORMAL=				Kopit Sitkam
 	AREACOMPLETE_NORMAL_FULLCLEAR=		Delet Kopit Sitkam
-	AREACOMPLETE_BSIDE=					Kopit B-Side
-	AREACOMPLETE_CSIDE=					Kopit C-Side
+	AREACOMPLETE_BSIDE=					Kopit B-Inatay
+	AREACOMPLETE_CSIDE=					Kopit C-Inatay
 	MOUNTAIN_COMPLETE_NORMAL=			Kopit
 	MOUNTAIN_COMPLETE_NORMAL_FULLCLEAR=	Delet Kopit
-	MOUNTAIN_COMPLETE_BSIDE=			Kopit B-Side
-	MOUNTAIN_COMPLETE_CSIDE=			Kopit C-Side
+	MOUNTAIN_COMPLETE_BSIDE=			Kopit B-Inatay
+	MOUNTAIN_COMPLETE_CSIDE=			Kopit C-Inatay
 
 # Game Paused #*
 	MENU_PAUSE_TITLE=			ALIM
@@ -379,23 +379,23 @@
 	MENU_PAUSE_VARIANT=			Xluyma
 	MENU_PAUSE_OPTIONS=			Options
 	MENU_PAUSE_RESTARTAREA=		Sitkam yaka Nus
-	MENU_PAUSE_SAVEQUIT=		Sif pi Kopit
+	MENU_PAUSE_SAVEQUIT=		Ts'əm Pipa pi Kopit
 	MENU_PAUSE_RETURN=			K'ilapay kopa Sitkam-kw'itkw'it
 	MENU_PAUSE_RESTARTDEMO=		Demo yaka Nus
 	MENU_RETURN_TITLE=			K'ILAPAY KOPA SITKAM-KW'ITKW'IT?
-	MENU_RETURN_CONTINUE=		AHA
+	MENU_RETURN_CONTINUE=		DELET
 	MENU_RETURN_CANCEL=			WIK
 	MENU_RETURN_INFO=			Spos mayka ɬatwa kopa sitkam-kw'itkw'it, sif
 								ikta mayka mamuk, qexchi altqi k'ialapy kopa sif-ilihi.
 	MENU_RESTART_TITLE=			K'ILAPAY KOPA SITKAM YAKA NUS?
-	MENU_RESTART_CONTINUE=		AHA
+	MENU_RESTART_CONTINUE=		DELET
 	MENU_RESTART_CANCEL=		WIK
 
 # Assist UI
 	MENU_ASSIST_TITLE=					HILP STAYL
 	MENU_ASSIST_SUBTITLE=				Hilp
 	MENU_ASSIST_GAMESPEED=				Ɬawa Hihi
-	MENU_ASSIST_INVINCIBLE=				Wik-chako-kakshet
+	MENU_ASSIST_INVINCIBLE=				Wik-qata chako kakshet
 	MENU_ASSIST_AIR_DASHES=				Saxali Hayaq Kw'inin
 	MENU_ASSIST_DASH_ASSIST=			Hayaq Hilp
 	MENU_ASSIST_AIR_DASHES_NORMAL=		Wik Xluyma
@@ -417,23 +417,24 @@
 
 # Misc UI #*
 	UI_CUTSCENE_SKIP=	Mamuk Kopit
-	UI_REMIX_UNLOCKED=	Ɬax̣̣ B-Side
+	UI_REMIX_UNLOCKED=	Ɬax̣̣ B-Inatay
 	UI_CANCEL=			Wik
-	UI_CONFIRM=			Aha
+	UI_CONFIRM=			Delet
 	UI_QUICK_RESTART_TITLE=Hayaq Chxiɬatwa: 
 	UI_QUICK_RESTART_HOLD=Hol
 	UI_QUICK_RESTART_PRESS=Press
 
 # B SIDES
+# (these match with the crystal  heart definitions below)
 	REMIX_BY=			Shanti kopa
-	REMIX_ALBUM=		Celeste B-Sides
+	REMIX_ALBUM=		Selest B-Inatay
 
-	AREA_1_REMIX=		(Q'op Saxali-Kopit Stayl)
-	AREA_2_REMIX=		(Kiyap Gidapmun Stayl)
+	AREA_1_REMIX=		(Q'op Tawn-Saxali Stayl)
+	AREA_2_REMIX=		(Ɬi7il Gidapmun Stayl)
 	AREA_3_REMIX=		(Ɬush T'amananowas Stayl)
 	AREA_4_REMIX=		(Gul Tipi7 Stayl)
-	AREA_5_REMIX=		(Shalokam T'amaanowas Stayl)
-	AREA_6_REMIX=		(Katsaq Kopa Ilihi Stayl)
+	AREA_5_REMIX=		(Shalokam Sili Stayl)
+	AREA_6_REMIX=		(Katsaq kopa Kanawi Ilihi Stayl)
 	AREA_7_REMIX=		(Hilu Manaqi Kuli Stayl)
 	AREA_9_REMIX=		(Wawa Gutbay Stayl)
 
@@ -548,7 +549,7 @@
 		{trigger 0 Madeline approaches}
 		
 		[THEO left normal]
-		Qata tlush polakli pos ɬatwalipyi!
+		Qata tlush polakli pos ɬatwalipyii!
 
 		[MADELINE right distracted]
 		Tɬ'onas
@@ -567,7 +568,7 @@
 		
 		[THEO left normal]
 		Anaa, ukuk q'olan kakwa tənəs til-tomtom.
-		Jəs nayka yutɬ pos nanich ixt{n}tilixam kopa kakwa kopit-ixt ilihi.
+		Jəs nayka yutɬ pos nanich ixt{n}tilixam kopa kakwa kopitixt ilihi.
 
 		[THEO left excited]
 		Wəxt, {+ theo} nayka nim. Nayka chxi chako ixt {>> 0.3}{~}sayaa ilihi!{/~}{>>}
@@ -579,7 +580,7 @@
 		Hilu mayka hayu wawa tilixam, wikna?
 
 		[THEO left normal]
-		Mayka kakwa kopit-ixt lilu, nayka kəmtəks.{n}Alaxti mayka ikanim hyash kiyap.
+		Mayka kakwa kopitixt lilu, nayka kəmtəks.{n}Alaxti mayka ikaanim hyash kiyap.
 
 	CH1_THEO_B=
 		[MADELINE right sad]
@@ -587,10 +588,10 @@
 		Alta hayu təmtəm miɬayt kopa nayka latet.
 
 		[THEO left normal]
-		Apaa, {+MADELINE}, Nayka pitək mayka chako ɬatwa kopa ɬush ilihi!
+		Apaa, {+MADELINE}, nayka pitək mayka chako ɬatwa kopa ɬush ilihi!
 
 		[THEO left thinking]
-		Hyash ays nayka lipyi, bət nayka wik kəmtəks ilihi{n}manaqi ɬush pos kw'an sqwelowal.
+		Hyash ays nayka lipyii, bət nayka wik kəmtəks ilihi{n}manaqi ɬush pos kw'an sqwelowal.
 		
 		[MADELINE right sad]
 		Aha, alaxti delet mayka.
@@ -599,7 +600,7 @@
 		Mayka chako ikta "{>> 0.5}{~}sayaa ilihi{/~}{>>}"?
 		
 		[THEO left excited]
-		Ah, Nayka kəltəsnanich sixs, {# 384048}tun'ni tsun 'utl'{#}{n}ixt {0.3}{~}skookum,{0.4} hyash-sayaa{/~}{0.4} ilihi, ukuk nim...
+		Ah, nayka kəltəsnanich optiska, {# 384048}tun'ni tsun 'utl'{#}{n}ixt {0.3}{~}skukəm,{0.4} hyash-sayaa{/~}{0.4} ilihi, ukuk nim...
 		
 		[THEO left normal]
 		{0.4} Seattle.
@@ -659,7 +660,7 @@
 		Hilu. Nayka ɬatwa kopa lamotaylatet.
 		
 		[THEO left excited]
-		Delet nayka nanitch mayka ɬatwa-mamuk-təmtəm. Skookum!
+		Delet nayka nanitch mayka ɬatwa-mamuk-təmtəm. Skukəm!
 
 		[THEO left normal]
 		Mayka wawa mamuk nayka tiki ɬatwa wəxt.
@@ -710,12 +711,12 @@
 
 	CH1_END=
 		[MADELINE left distracted]
-		Ugh, Hyash til nayka.
+		Wəx, delet til nayka.
 
 		{trigger 0 MADELINE sits down to rest. A bird swoops in, lands on her head, and goes to sleep}
 		
 		[MADELINE left deadpan]
-		{>> 0.4}Tɬ'onas ts'ipi, chako ɬatwa yakwa.
+		{>> 0.4}Tɬ'onas ts'ipi, chako yakwa.
 
 # *** Chapter 02 ***
 
@@ -731,7 +732,7 @@
 		ɬaksta wawa?
 		
 		[BADELINE left normal]
-		Oh, jəs nayka ixt nanich-tilixam.
+		Oh, jəs ɬaksta nanich mayka, nayka.
 
 		{trigger 1 Badeline is revealed}
 		
@@ -784,10 +785,10 @@
 		
 		[MADELINE right upset]
 		Delet ukuk kakwa nayka tikitiki mamuk ukuk.
-		Mayka ixt til {+PART_OF_ME}, əbə mayka ixt ɬawa sitkam?
+		Ixt til {+PART_OF_ME}, mayka, əbə ixt hilu-tiki-mamuk sitkam?
 
 		[BADELINE left upset]
-		Mayka hayu-kəmtəks sitkam.
+		Mayka ixt hayu-kəmtəks sitkam, nayka.
 		
 		[BADELINE left scoff]
 		Pi nayka {~}tiki{/~} hilp mayka.
@@ -813,110 +814,110 @@
 		Ikta mayka wawa?
 		
 		[MADELINE_PHONE left distracted]
-		It doesn't matter. I'm in trouble.
-		I'm being chased by... someone.
+		Kəltəs ukuk. Til nayka.
+		Ɬaksta kuli kimt'a kopa nayka.
 
 		[MADELINE_PHONE left sad]
-		I don't really understand what's going on,{n}but I know I'm in danger. I can feel it.
-		
+		Nayka wik kəmtəks ikta miɬayt,{n}bət masachi pi pishak ukuk. Nayka kəmtəks nayka təmtəm.
+		                                                                                                                                                                        
 		[EX_PHONE right normal]
-		{+MADELINE}, you only call me when you're{n}panicking in the middle of the night.
-		You don't have to make up some{n}ridiculous story just to get my attention.
+		{+MADELINE}, mayka wawa kopa nayka qanchi stikəmpolakli kw'as pi liplip-təmtəm mayka.
+		Ɬush wik mayka mamuk pilten hilu-delet ikaanim{n}pos nayka q'olan.
 		
 		[MADELINE_PHONE left angry]
-		I'm not making it up!
-		You always do this!
+		Hilu nayka tɬ'eminxwit.
+		Kwanisam mayka mamuk ukuk!
 		
 		[EX_PHONE right normal]
-		{~}Shhh{/~} {0.5}it's alright, calm down.
-		I'm sorry sweetheart.
-		Talk to me.
+		{~}Shhh{/~} {0.5}Wik kəltəs-təmtəm.
+		Malali, t'alis.
+		Wawa kopa mayka.
 		
 		[MADELINE_PHONE left sad]
-		I'm climbing {+celeste_mountain}.{n}I found this old mirror, and it shattered,{n}but part of me escaped, and...
+		Nayka kopa {+celeste_mountain}.{n}Nayka nanich ixt ul shalokam, pi yaka kakshet,{n}yawa sitkam nayka ɬatwaɬax, pi...
 
 		[MADELINE_PHONE left upset]
 		...
-		...I'm dreaming, aren't I?
+		...Alta nayka musum, wikna?
 		
 		[EX_PHONE right normal]
-		{+MADELINE}. Of course you're dreaming.
-		I haven't spoken to you in months.
-		Why would I start now?
+		{+MADELINE}. Nawitka mayka musum.
+		Hayu mun kimt'a anqati nsayka wawa.
+		Pos ikta alta wawa wəxt?
 		
 		[MADELINE_PHONE left angry]
-		Ugh! Why am I even climbing this stupid {+mountain}?
+		Wəx! Pos ikta nayka ɬatwa ukuk pilten {+mountain}?
 
 		{trigger 0 Badeline appears}
 		
 		[BADELINE right scoff]
-		I'm wondering the same thing.
+		Olsim ikta nayka pitək.
 		
 		[BADELINE right upset]
-		It's time to give up and go home.
+		Alta ɬush mayka kopit pi k'ilapay kopa hom.
 
 	# if the MADELINE has never met Theo before
 	CH2_THEO_INTRO_NEVER_MET=
 		[THEO left normal]
-		Ho there, fellow explorer!
-		
+		Ho, ɬatwa-sixs!
+
 		[MADELINE right distracted]
-		Oh... hi.
+		Oh... Aha.
 
 		{trigger 0 Madeline approaches}
 
 		[THEO left normal]
-		Did you also trek up here to scope out these old ruins?
+		Mayka chakoɬatwa kopa ukuk ilihi pos nanich ukuk ul mimlus stonhaws?
 		
 		[MADELINE right sad]
-		Uhh... no, I'm headed for the summit.
+		Uhh... wik, nayka ɬatwa kopa lamotaylatet.
 		
 		[THEO left excited]
-		Whoa, that's crazy!
+		Hwa-wa, hyash skukəm!
 		
 		[THEO left normal]
-		I'm {+ theo} by the way, an adventurer from a {>> 0.3}{~}far off land!{/~}{>>}
+        Wəxt, {+ theo} nayka nim. Nayka chxi chako ixt {>> 0.3}{~}sayaa ilihi!{/~}{>>}
 		
 		[MADELINE right sad]
 		...{0.2}
-		
+
 		[THEO left thinking]
-		Not much of a talker, are you?
-		
+		Hilu mayka hayu wawa tilixam, wikna?
+
 		[THEO left normal]
-		Mysterious lone wolf type, I get it.{n}I'll just imagine some dark backstory for you.
+		Mayka kakwa kopitixt lilu, nayka kəmtəks.{n}Alaxti mayka ikaanim hyash kiyap.
 
 	# if the MADELINE has met Theo, but never introduced herself
 	CH2_THEO_INTRO_NEVER_INTRODUCED=
 		[MADELINE right sad]
-		Hey {+ theo}, sorry about earlier.{n}I'm {+MADELINE}.
-		I've got a lot on my mind.
+		Aha {+ theo}. Milalam, anqati wik nayka hayu wawa.{n}{+MADELINE} nayka nim.
+		Alta hayu təmtəm miɬayt kopa nayka latet.
 		
 		[THEO left normal]
-		Well this is a good place for it.
-		Something about these ruins feels so introspective.
-		It's really making me take a{n}look in the mirror, so to speak.
+		Apaa, {+MADELINE}, Nayka pitək mayka chako ɬatwa kopa ɬush ilihi.
+		Hilu nayka kəmtəks pos ikta, bət nayka pitək ukuk ul mimlus stonhaws ɬush pos pitək kopa silf.
+		Miɬayt yakwa kakwa nanich kopa shalokam,{n}tɬonas hayaq wawa.
 		
 		[MADELINE right distracted]
-		Yeah... I get that.
+		Delet... Nayka q'olan mayka wawa.
 
 		[MADELINE right normal]
-		So what "{>> 0.5}{~}far off land{/~}{>>}" do you hail from?
+		Apaa, mayka chako ikta "{>> 0.5}{~}sayaa ilihi{/~}{>>}"?
 		
 		[THEO left excited]
-		Well, my inquisitive compatriot, I doth hail{n}from the {0.3}{~}mystical,{0.4} enigmatic{/~}{0.4} kingdom of...
+		Ah, Nayka kəltəsnanich sixs, {# 384048}tun'ni tsun 'utl'{#}{n}ixt {0.3}{~}skookum,{0.4} hyash-sayaa{/~}{0.4} ilihi, ukuk nim...
 		
 		[THEO left normal]
 		{0.4} Seattle.
 
 		[MADELINE right normal]
-		It sounds like a special place.
+		Q'olan kakwa t'amaanowas ukuk ilihi.
 
 	# added to the start of the CH2_THEO_A if the MADELINE has met and introduced themselves to Theo
 	# (if NEVER_MET and NEVER_INTRODUCED are skipped)
 	CH2_THEO_A_EXT=
 		[THEO left excited]
-		Hey, {+MADELINE}!{n}You made it!
+		Ho, {+MADELINE}!{n}Mayka chako q'o7!
 
 		{trigger 3 Madeline Approaches}
 
@@ -925,33 +926,33 @@
 	# normal conversation once introductions are out of the way
 	CH2_THEO_A=
 		[THEO left normal]
-		Climbing up here was tough,{n}but totally worth it.
+		Hyash q'əl chakoɬatwa kopa ukuk saxali ilihi,{n}bət nayka yutɬ pos nayka q'o7.
 		
 		[THEO left excited]
-		Just look at these ruins!
-		I took so many great pics, wanna see?
+		Jəs nanich ukuk ul stonhaws!
+		Haaaayu pikcha nayka mamuk. Mayka tiki nanich na?
 		
 		[MADELINE right sad]
-		Oh... [MADELINE right normal]sure.
+		Oh... [MADELINE right normal]Aha.
 
 		{trigger 0 Maddy walks to Theo}
 
 		[MADELINE right normal]
-		{+ theo}, these are great!
+		{+ theo}, hyash ɬush ukuk pikcha!
 		
 		[THEO left thinking]
-		Maybe I'll finally hit a thousand followers with these.
+		Tɬonas kanamakwst ukuk nayka bambay tɬap kopa tatlilam tak'amonaq tilixam.
 
 		{trigger 1 Theo puts away phone}
 		
 		[THEO left normal]
-		Oh! We need to formally commemorate this occasion...
+		Nawitka! Ɬush pos nsayka kwanisam kəmtəks ukuk polakli...
 		
 		[THEO left excited]
-		Take a selfie with me!
+		Kanamakwst nayka mamuk silf-pikcha!
 		
 		[MADELINE right distracted]
-		Uhh... I don't know if that's such a good idea right now...
+		Uhh... Hilu nayka kəmtəks spos ɬush pos alta mamuk ukuk..
 		
 		[THEO left normal]
 		Come on, it's easy. Like this!
@@ -5160,32 +5161,33 @@
 		{>> 0.3}That {~}is{/~} nice.{>>}
 
 # Crystal Hearts
+#* (These match with AREA_n_REMIX above)
 
-	POEM_FC=	Pointless machines
-	POEM_FCR=	Sever the skyline
+	POEM_FC=	Kəltəs lamula
+	POEM_FCR=	Q'op tawn-saxali
 
-	POEM_OS=	Resurrections
-	POEM_OSR=	Black moonrise
+	POEM_OS=	Tɬap-wəxt
+	POEM_OSR=	Ɬi7il gidapmun
 
-	POEM_CR=	Scattered and lost
-	POEM_CRR=	Good karma
+	POEM_CR=	Kəltəs pi ts'olo
+	POEM_CRR=	Ɬush t'amananowas
 
-	POEM_CS=	Eye of the storm
-	POEM_CSR=	Golden feather
+	POEM_CS=	Katsaq kopa hayu-win
+	POEM_CSR=	Gul tipi7
 
-	POEM_T=		Quiet and falling
-	POEM_TR=	Mirror magic
+	POEM_T=		Kw'an pi hayu foldawn
+	POEM_TR=	Shalokam sili
 
-	POEM_TF=	Heavy and frail
-	POEM_TFR=	Center of the earth
+	POEM_TF=	Sik pi til
+	POEM_TFR=	Katsaq kopa kanawi ilihi
 
-	POEM_TS=	Pink sunrise
-	POEM_TSR=	No more running
+	POEM_TS=	Laloos gidapsan
+	POEM_TSR=	Hilu manaqi kuli
 
-	POEM_MC=	Heart of the mountain
-	POEM_MCR=	Say goodbye
+	POEM_MC=	Katsaq kopa lamotay
+	POEM_MCR=	Wawa gutbay
 
-	POEM_FW=	Empty Space
+	POEM_FW=	Hilu Kosax
 	
 # Wavedash Tutorial
 	
