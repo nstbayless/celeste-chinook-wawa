@@ -56,102 +56,102 @@
 	MENU_DEBUG=		~TLAQ-BƏG~
 	MENU_BEGIN=		CHXIꞭATWA
 	MENU_PICO8=		PICO-8
-	MENU_OPTIONS=	Options
+	MENU_OPTIONS=	Hihi-stayl
 	MENU_CREDITS=	Tilixam
 	MENU_EXIT=		Kopit
 
-# Options #*
-	OPTIONS_TITLE=			OPTIONS
-	OPTIONS_CONTROLS=		CONTROLS
-	OPTIONS_RUMBLE_PC=		Rumble
-	OPTIONS_RUMBLE_PS4=		Vibration
-	OPTIONS_RUMBLE_XB1=		Vibration
-	OPTIONS_RUMBLE_NS=		Rumble
-	OPTIONS_RUMBLE_ON=		100%
-	OPTIONS_RUMBLE_HALF=	50%
-	OPTIONS_RUMBLE_OFF=		Off
-	OPTIONS_KEYCONFIG=		Keyboard Config
-	OPTIONS_BTNCONFIG=		Controller Config
+# Options
+	OPTIONS_TITLE=			HIHI-STAYL
+	OPTIONS_CONTROLS=		MAMUK-STAYL
+	OPTIONS_RUMBLE_PC=		Shəxshəx
+	OPTIONS_RUMBLE_PS4=		Shəxshəx
+	OPTIONS_RUMBLE_XB1=		Shəxshəx
+	OPTIONS_RUMBLE_NS=		Shəxshəx
+	OPTIONS_RUMBLE_ON=		Delet
+	OPTIONS_RUMBLE_HALF=	Sitkam
+	OPTIONS_RUMBLE_OFF=		Wik
+	OPTIONS_KEYCONFIG=		Ts'əmlap̣lash Stayl
+	OPTIONS_BTNCONFIG=		Tsiltsil Stayl
+	OPTIONS_VIDEO=			NANICH-STAYL
+	OPTIONS_FULLSCREEN=		Kanawipikcha
+	OPTIONS_WINDOW=			Qata Hyash Windo
+	OPTIONS_VSYNC=			Kikwili-Lop Olsim
+	OPTIONS_VIEWPORT_NS=	Qata Hyash Pikcha
+	OPTIONS_VIEWPORT_PS4=	Qata Hyash Pikcha
+	OPTIONS_VIEWPORT_XB1=	Qata Hyash Pikcha
+	OPTIONS_VIEWPORT_PC=	Qata Hyash Pikcha
+	OPTIONS_DISABLE_FLASH=	Til Twax Stayl
+	OPTIONS_DISABLE_SHAKE=	Pikcha Shəx Stayl
 
-	OPTIONS_VIDEO=			VIDEO
-	OPTIONS_FULLSCREEN=		Fullscreen
-	OPTIONS_WINDOW=			Window Scale
-	OPTIONS_VSYNC=			Vertical Sync
-	OPTIONS_VIEWPORT_NS=	Adjust Screen Size
-	OPTIONS_VIEWPORT_PS4=	Adjust Screen Size
-	OPTIONS_VIEWPORT_XB1=	Adjust Screen Size
-	OPTIONS_VIEWPORT_PC=	Adjust Screen Size
-	OPTIONS_DISABLE_FLASH=	Photosensitive Mode
-	OPTIONS_DISABLE_SHAKE=	Screen Shake Effects
+	OPTIONS_AUDIO=			Q'OLAN-STAYL
+	OPTIONS_MUSIC=			Shanti
+	OPTIONS_SOUNDS=			Latɬa
 
-	OPTIONS_AUDIO=			AUDIO
-	OPTIONS_MUSIC=			Music
-	OPTIONS_SOUNDS=			Sounds
-
-	OPTIONS_GAMEPLAY=		GAMEPLAY
-	OPTIONS_SPEEDRUN=		Speedrun Clock
-	OPTIONS_SPEEDRUN_CHAPTER=Chapter
-	OPTIONS_SPEEDRUN_FILE=	File
-	OPTIONS_DASHES=			Dash Counter
-	OPTIONS_LANGUAGE=		Language
-	OPTIONS_ON=				ON
-	OPTIONS_OFF=			OFF
+	OPTIONS_GAMEPLAY=		DELET HIHI-STAYL
+	OPTIONS_SPEEDRUN=		Hayaqkuli Tiktik
+	OPTIONS_SPEEDRUN_CHAPTER=Sitkam
+	OPTIONS_SPEEDRUN_FILE=	Pipa
+	OPTIONS_DASHES=			Hayaq Kw'inin
+	OPTIONS_LANGUAGE=		Lelang
+	OPTIONS_ON=				DELET
+	OPTIONS_OFF=			WIK
 
 # KEYBOARD CONFIG
-	KEY_CONFIG_TITLE=		Keyboard Config
-	KEY_CONFIG_MOVEMENT=	MOVEMENT
-	KEY_CONFIG_LEFT=		Left
-	KEY_CONFIG_RIGHT=		Right
-	KEY_CONFIG_UP=			Up
-	KEY_CONFIG_DOWN=		Down
-	KEY_CONFIG_GAMEPLAY=	ACTIONS
-	KEY_CONFIG_JUMP=		Jump
-	KEY_CONFIG_DASH=		Dash
-	KEY_CONFIG_GRAB=		Grab
-	KEY_CONFIG_TALK=		Talk
-	KEY_CONFIG_MENUS=		MENU
-	KEY_CONFIG_CONFIRM=		Confirm
-	KEY_CONFIG_CANCEL=		Cancel
-	KEY_CONFIG_PAUSE=		Pause
-	KEY_CONFIG_JOURNAL=		Journal
-	KEY_CONFIG_QUICKRESTART=Quick Restart
-	KEY_CONFIG_RESET=		Reset to Default
-	KEY_CONFIG_CHANGING=	PRESS KEY FOR
+	KEY_CONFIG_TITLE=		Ts'əmlap̣lash Stayl
+	KEY_CONFIG_MOVEMENT=	ꞭATWA-STAYL
+	KEY_CONFIG_LEFT=		Wik-Qink'iyam
+	KEY_CONFIG_RIGHT=		Qink'iyam
+	KEY_CONFIG_UP=			Saxali
+	KEY_CONFIG_DOWN=		Kikwili
+	KEY_CONFIG_GAMEPLAY=	MAMUK-TAYP
+	KEY_CONFIG_JUMP=		Sopna
+	KEY_CONFIG_DASH=		Hayaq
+	KEY_CONFIG_GRAB=		Hol
+	KEY_CONFIG_TALK=		Wawa
+	KEY_CONFIG_MENUS=		ALIM-PIPA
+	KEY_CONFIG_CONFIRM=		Aha
+	KEY_CONFIG_CANCEL=		Mash
+	KEY_CONFIG_PAUSE=		Alim
+	KEY_CONFIG_JOURNAL=		Sanpipa
+	KEY_CONFIG_QUICKRESTART=Hayaq Chxiɬatwa
+	KEY_CONFIG_RESET=		K'ilapay kopa wik-xluyma stayl
+	KEY_CONFIG_CHANGING=	MAMUK TSILTSIL POS
 
 # CONTROLLER CONFIG
-	BTN_CONFIG_TITLE=		Controller Config
-	BTN_CONFIG_INFO=		PRESS | TO ADD A BUTTON, | TO CLEAR BUTTONS
-	BTN_CONFIG_CHANGING=	PRESS BUTTON TO ADD FOR
-	BTN_CONFIG_NOCONTROLLER=Please Attach a Controller
+	BTN_CONFIG_TITLE=		Tsiltsil Stayl
+	BTN_CONFIG_INFO=		MAMUK | POS MANAQI TSILTSIL, | POS MASH KANAWI TSILTSIL
+	BTN_CONFIG_CHANGING=	MAMUK WƏXT TSILTSIL POS
+	BTN_CONFIG_NOCONTROLLER=Nixwa Paɬach ixt Tsiltsil-Ikta
 
 # PICO-8
 	PICO8_UNLOCKED=			Chxi Hihi Miɬayt Kopa Main Menu
 	PICO8_PAUSE_TITLE=		ALIM
-	PICO8_PAUSE_CONTINUE=	Ɬatwa
-	PICO8_PAUSE_RESTART=	Wəxt Chxi PICO-8
+	PICO8_PAUSE_CONTINUE=	K'ilapay Hihi
+	PICO8_PAUSE_RESTART=	Chxi PICO-8 Hihi
 	PICO8_PAUSE_QUIT=		Kopit PICO-8
 
 # FILE MENU
-	FILE_DEFAULT=		Madeline
+	FILE_DEFAULT=		Skədzo
 	FILE_CORRUPTED=		Kakshet :(
 	FILE_FAILEDTOLOAD=	Wik-qata Xalaqɬ
 	FILE_NEWGAME=		Chxi Hihi!
-	FILE_CONTINUE=		K'ilipay
+	FILE_CONTINUE=		K'ilapay
 	FILE_DELETE=		Mash Hihi
 	FILE_BEGIN=			ꞭATWA
 	FILE_ASSIST_OFF=	Hilp Stayl : WIK
-	FILE_ASSIST_ON=		Hilp Stayl : AHA
+	FILE_ASSIST_ON=		Hilp Stayl : DELET
 	FILE_VARIANT_OFF=	Xluyma Stayl : WIK
-	FILE_VARIANT_ON=	Xlyuma Stayl : AHA
+	FILE_VARIANT_ON=	Xlyuma Stayl : DELET
 	FILE_RENAME=		Mamuk Nim
 	FILE_DELETE_REALLY=	Delet Mash Na?
 	FILE_DELETE_NO=		Wik
 	FILE_DELETE_YES=	Mash
 	FILE_DELETE_FAILED=	Wik-qata Mash!
 
+#*
 # Assist Mode #*
 	ASSIST_MODE_0=
-		{# 44adf7}Assist Mode{#} allows you to modify{n}
+		{# 44adf7}Hilp Stayl{#} allows you to modify{n}
 		the game's rules to fit your specific needs.		
 	ASSIST_MODE_1=
 		This includes options such as slowing the game speed,{n}
@@ -160,22 +160,22 @@
 	ASSIST_MODE_2=
 		Celeste is intended to be a challenging and rewarding experience.{n}
 		If the default game proves inaccessible to you, we hope that{n} 
-		you can still find that experience with {# 44adf7}Assist Mode{#}.
-	ASSIST_ASK=		Would you like to play with {# 44adf7}Assist Mode{#}?
-	ASSIST_YES=		Yes
-	ASSIST_NO=		No
-	ASSIST_SKIP=	Assist{n}Skip
+		you can still find that experience with {# 44adf7}Hilp Stayl{#}.
+	ASSIST_ASK=		Nayka tiki mamuk {# 44adf7}Hilp Stayl{#} hihi?
+	ASSIST_YES=		Delet
+	ASSIST_NO=		Wik
+	ASSIST_SKIP=	Q'o7{n}Ubuut
 
 # File Naming
 	NAME_LETTERS=
 		ABCDEFGHI abcdefghi
 		JKLMNOPQR jklmnopqr
-		STUVWXYZ  stuvwxyz
+		STUVWXYZꞭ  stuvwxyzɬ
 		1234567890+=:~!@$%
-		^&*_-#"'()<>/\.,|`
+		^&*_-#"'()<>/\.,əƏ
 
-	NAME_SPACE=			space
-	NAME_BACKSPACE=		backspace
+	NAME_SPACE=			hilu
+	NAME_BACKSPACE=		mash
 	NAME_ACCEPT=		ꞭUSH
 	NAME_BACK=			K'ilapay
 
@@ -183,12 +183,12 @@
 	XB1_MENU_SWITCH_PROFILE=	Switch Profile
 	XB1_SIGN_OUT_MESSAGE=		A sign-in change has occured. Please sign back in or exit to the title screen.
 	XB1_SIGN_IN=				Sign-in
-	XB1_RECONNECT_CONTROLLER=	Please reconnect your controller to continue.
+	XB1_RECONNECT_CONTROLLER=	Nixwa paɬach tsiltsil-ikta pos manaqi ɬatwa.
 
 # Intro Vignette
-	INTRO_VIGNETTE_RESUME=	Continue
-	INTRO_VIGNETTE_SKIP=	Skip
-	INTRO_VIGNETTE_QUIT=	Quit
+	INTRO_VIGNETTE_RESUME=	K'ilapay kopa pikcha
+	INTRO_VIGNETTE_SKIP=	Q'o7 kopit
+	INTRO_VIGNETTE_QUIT=	Kopit hihi
 
 # Overworld
 	OVERWORLD_START=			Ɬatwa
@@ -204,11 +204,11 @@
 	AREA_0=			Ilip-sitkam
 	AREA_1=			Mimlus Tawn
 	AREA_2=			Ul Kamp
-	AREA_3=			Celeste Sliphaws
+	AREA_3=			Selest Sliphaws
 	AREA_4=			Gul Kanyon
 	AREA_5=			Shalokam Stiwilhaws
 	AREA_6=			Shado-sqwelowal
-	AREA_7=			Lamotay-latet
+	AREA_7=			Lamotaylatet
 	AREA_8=			Kimt'a-sitkam
 	AREA_9=			Katsaq
 	AREA_10=		Gutbay
@@ -224,31 +224,31 @@
 	CHECKPOINT_3_1=		Elebita Haws
 	CHECKPOINT_3_2=		Taiyi Haws
 
-	CHECKPOINT_4_0=		Shrine
-	CHECKPOINT_4_1=		Old Trail
-	CHECKPOINT_4_2=		Cliff Face
+	CHECKPOINT_4_0=		Stiwil-Ilihi
+	CHECKPOINT_4_1=		Ul Uyxat
+	CHECKPOINT_4_2=		Lamotay-Syaxus
 
-	CHECKPOINT_5_0=		Depths
-	CHECKPOINT_5_1=		Unravelling
-	CHECKPOINT_5_2=		Search
-	CHECKPOINT_5_3=		Rescue
+	CHECKPOINT_5_0=		Kikwili
+	CHECKPOINT_5_1=		Ənk'aw
+	CHECKPOINT_5_2=		Ɬatwananich
+	CHECKPOINT_5_3=		Hilp
 
-	CHECKPOINT_6_0=		Lake
-	CHECKPOINT_6_1=		Hollows
-	CHECKPOINT_6_2=		Reflection
-	CHECKPOINT_6_3=		Rock Bottom
-	CHECKPOINT_6_4=		Resolution
+	CHECKPOINT_6_0=		Leyk
+	CHECKPOINT_6_1=		Hilukw'atin
+	CHECKPOINT_6_2=		Shalokam-Nanich
+	CHECKPOINT_6_3=		Delet Kikwili
+	CHECKPOINT_6_4=		Chako ixt-təmtəm
 
-	CHECKPOINT_7_0=		500 M
-	CHECKPOINT_7_1=		1000 M
-	CHECKPOINT_7_2=		1500 M
-	CHECKPOINT_7_3=		2000 M
-	CHECKPOINT_7_4=		2500 M
-	CHECKPOINT_7_5=		3000 M
+	CHECKPOINT_7_0=		500 m
+	CHECKPOINT_7_1=		1000 m
+	CHECKPOINT_7_2=		1500 m
+	CHECKPOINT_7_3=		2000 m
+	CHECKPOINT_7_4=		2500 m
+	CHECKPOINT_7_5=		3000 m
 
-	CHECKPOINT_8_0=		Into the Core
-	CHECKPOINT_8_1=		Hot and Cold
-	CHECKPOINT_8_2=		Heart of the Mountain
+	CHECKPOINT_8_0=		Katsaqni
+	CHECKPOINT_8_1=		Ays pi Paya
+	CHECKPOINT_8_2=		Katsaq kopa Lamotay
 
 	CHECKPOINT_9_0=		Singular
 	CHECKPOINT_9_1=		Power Source
@@ -260,15 +260,16 @@
 	CHECKPOINT_9_7=		Farewell
 
 # B-Side Checkpoints
-	CHECKPOINT_1H_0=	Contraption
-	CHECKPOINT_1H_1=	Scrap Pit
+	CHECKPOINT_1H_0=	Lamula
+	CHECKPOINT_1H_1=	Mash Ɬxwap
 
-	CHECKPOINT_2H_0=	Combination Lock
-	CHECKPOINT_2H_1=	Dream Altar
+	CHECKPOINT_2H_0=	Kw'inin-Lakli
+	CHECKPOINT_2H_1=	Musum Lotil
 
-	CHECKPOINT_3H_0=	Staff Quarters
-	CHECKPOINT_3H_1=	Library
-	CHECKPOINT_3H_2=	Rooftop
+#*
+	CHECKPOINT_3H_0=	Staf Haws
+	CHECKPOINT_3H_1=	Bukhaws
+	CHECKPOINT_3H_2=	Hawsyapuɬ
 
 	CHECKPOINT_4H_0=	Stepping Stones
 	CHECKPOINT_4H_1=	Gusty Canyon
@@ -295,14 +296,15 @@
 
 # Postcards
 	POSTCARD_AREA_1=
-		Tɬap {#ff1144}Sif pi Kopit{#} qanchi alim pos kopit hihi. Aɬqi nayka k'ilipay olsim ilihi, hilu hihi mash ikta anqati mayka mamuk!
+		Tɬap {#ff1144}Sif pi Kopit{#} qanchi alim pos kopit hihi. Aɬqi mayka chakok'ilapay kopa olsim ilihi, hilu hihi mash ikta mayka mamuk!
 
 	POSTCARD_AREA_2=
-		Tɬap {#ff1144}Amuti{#} pos mamuk kikwili-təmtəm mayka sixs, qexchi hilu xluyma. Spos delete mayka tiki, hayaq mayka tɬap!
+		Tɬap {#ff1144}Amuti{#} pos mamuk kikwili-təmtəm mayka sixs, qexchi hilu xluyma. Spos delet mayka tiki, hayaq mayka tɬap!
 
 	POSTCARD_AREA_3=
 		Ɬush mayka {#ff1144}Mimlus Kw'inin{#} mamuk mayka saxali-təmtəm!{n}Manaqi mimlus, manaqi chako-kəmtəks.{n}Wik kopit!
 
+#*
 	POSTCARD_AREA_4=
 		{# F94A4A}Climbing Tip!{#}{n}Low on energy in a pinch?{n}{n}Jumping away from walls{n}doesn't consume stamina!
 
@@ -343,6 +345,7 @@
 	STAT_PICO_COMPLETES=	PICO-8 Completes
 
 # Saving / Loading Failed
+#*
 	SAVEFAILED_TITLE=	UNABLE TO SAVE
 	SAVEFAILED_RETRY=	Try Again
 	SAVEFAILED_IGNORE=	Continue Without Saving
@@ -351,11 +354,11 @@
 	LOADFAILED_IGNORE=	Continue Without Saving
 
 # Tutorial
-	TUTORIAL_CLIMB=		CLIMB
-	TUTORIAL_HOLD=		HOLD
-	TUTORIAL_DASH=		DASH
-	TUTORIAL_DREAMJUMP=	JUMP
-	TUTORIAL_CARRY=		CARRY
+	TUTORIAL_CLIMB=		ꞭATWA SAXALI
+	TUTORIAL_HOLD=		HOL
+	TUTORIAL_DASH=		HAYAQ
+	TUTORIAL_DREAMJUMP=	SOPNA
+	TUTORIAL_CARRY=		HULU
 
 # Area Complete
 	AREACOMPLETE_NORMAL=				Kopit Sitkam
@@ -422,36 +425,36 @@
 	UI_QUICK_RESTART_PRESS=Press
 
 # B SIDES
-	REMIX_BY=			Music by
+	REMIX_BY=			Shanti kopa
 	REMIX_ALBUM=		Celeste B-Sides
 
-	AREA_1_REMIX=		(Sever the Skyline Mix)
-	AREA_2_REMIX=		(Black Moonrise Mix)
-	AREA_3_REMIX=		(Good Karma Mix)
-	AREA_4_REMIX=		(Golden Feather Mix)
-	AREA_5_REMIX=		(Mirror Magic Mix)
-	AREA_6_REMIX=		(Center of the Earth Mix)
-	AREA_7_REMIX=		(No More Running Mix)
-	AREA_9_REMIX=		(Say Goodbye Mix)
+	AREA_1_REMIX=		(Q'op Saxali-Kopit Stayl)
+	AREA_2_REMIX=		(Kiyap Gidapmun Stayl)
+	AREA_3_REMIX=		(Ɬush T'amananowas Stayl)
+	AREA_4_REMIX=		(Gul Tipi7 Stayl)
+	AREA_5_REMIX=		(Shalokam T'amaanowas Stayl)
+	AREA_6_REMIX=		(Katsaq Kopa Ilihi Stayl)
+	AREA_7_REMIX=		(Hilu Manaqi Kuli Stayl)
+	AREA_9_REMIX=		(Wawa Gutbay Stayl)
 
 # Credits
 	CREDITS_THANKYOU=	Masi pos Hihi
 
 # Names #*
-	THEO=				{# FF9523}Theo{#}
+	THEO=				{# FF9523}Mulak{#}
 	THEO_UNDER_STARS=	{# FFFF4C}TheoUnderStars{#}
 	MIXMASTER_THEO=		{# FF9523}Tisik Tilixam Theo{#}
 	MOM=				{# 339CC7}Mama{#}
-	MROSHIRO=			{# 7BD838}Siyem Oshiro{#}
+	MROSHIRO=			{# 7BD838}Taiyi Oshiro{#}
 	OSHIRO=				{# 7BD838}Oshiro{#}
 	ELCREEPO=			{# 7BD838}El Creepo{#}
 	MADELINE=			{# F94A4A}{savedata Name}{#}
-	MS_MADELINE=		{# F94A4A}Siyem {savedata Name}{#}
-	RESORT=				{# b864be}Celeste Sliphaws{#}
+	MS_MADELINE=		{# F94A4A}Taiyi {savedata Name}{#}
+	RESORT=				{# b864be}Selest Sliphaws{#}
 	THOUGHT=			{# 696a6a}{~}(
 	ENDTHOUGHT=			){/~}{#}
 	MOUNTAIN=			{# 96EFFF}Lamotay{#}
-	CELESTE_MOUNTAIN=	{# 96EFFF}Celeste Lamotay{#}
+	CELESTE_MOUNTAIN=	{# 96EFFF}Selest Lamotay{#}
 	PART_OF_ME=			{# d678db}{~}Sitkam Nayka{/~}{#}
 	PART_OF_YOU=		{# d678db}{~}Sitkam Mayka{/~}{#}
 	ST_BAD=				{# d678db}{~}
@@ -462,8 +465,8 @@
 
 # Theo sister name
 # if the player name is the same as this one, theo's sister name becomes the ALT_NAME
-	THEO_SISTER_NAME=		Alex
-	THEO_SISTER_ALT_NAME=	Maddy
+	THEO_SISTER_NAME=		Toluks
+	THEO_SISTER_ALT_NAME=	Kwiskwis
 	ALEX=					{# F94A4A}{savedata TheoSisterName}{#}
 
 # ================================== IN-GAME DIALOG BEGINS HERE! ==================================
@@ -471,15 +474,15 @@
 # *** Prologue ***
 
 	CH0_INTRO=
-		Ukuk yakwa, {+MADELINE}.
-		Yaxaneti.
+		Q'o7 yakwa, {+MADELINE}.
+		Chakowin.
 		Pos ikta kw'as pi kəltəs-təmtəm?
 
 	CH0_GRANNY=
 		{anchor top}
 
 		[MADELINE left normal]
-		Ɬahowya, siyem?
+		Ɬahowya, taiyi?
 
 		{trigger 0 Madeline walks forward}
 
@@ -650,13 +653,13 @@
 
 	CH1_THEO_E=
 		[THEO left normal]
-		Tənəs q'el ukuk ston ilihi,{n}mayka wik-saya k'ilipay kopa mayka ilihi na?
+		Tənəs q'el ukuk ston ilihi,{n}mayka wik-saya K'ilapay kopa mayka ilihi na?
 		
 		[MADELINE right normal]
 		Hilu. Nayka ɬatwa kopa lamotaylatet.
 		
 		[THEO left excited]
-		Delet nayka nanitch mayka ɬatwa-mamuk-təmtəm!
+		Delet nayka nanitch mayka ɬatwa-mamuk-təmtəm. Skookum!
 
 		[THEO left normal]
 		Mayka wawa mamuk nayka tiki ɬatwa wəxt.
@@ -674,10 +677,10 @@
 		Nayka kəltəs kopa q'o7 latet, delet.
 
 		[THEO left normal]
-		{!}Tatɬi!{/!} Nayka anqati q'olan ixt {~}delet{/~}{n}ultilixam yaka mimlus ilihi kopa tawn saxali.
+		{!}Tatɬi!{/!} Nayka anqati q'olan ixt {~}delet{/~} ultilixam yaka mimlus stonhaws miɬayt saxali kopa tawn.
 		
 		[THEO left excited]
-		Kakwa 1800's delet. 
+		Kakwa 1800s delet.
 
 		[THEO left normal]
 		Nayka kəmtəks hyash pishak, bət nayka hyash tiki nanich kanamakwst nayka syaxus.
@@ -701,9 +704,9 @@
 		{big}{~}Y{>> 0.5}OLO{>> 0.2}OOOOOOOO!!{>>}{/~}{/big}
 
 	MEMORIAL=
-		-- CELESTE LAMOTAY --
-		Ukuk ts'em miɬayt pos klaska
-		mimlus kopa uyxat kopa latet.
+		-- SELEST LAMOTAY --
+		Ukuk ts'em miɬayt yakwa pos
+		ɬaksta mimlus kopa uyxat.
 
 	CH1_END=
 		[MADELINE left distracted]
@@ -712,7 +715,7 @@
 		{trigger 0 MADELINE sits down to rest. A bird swoops in, lands on her head, and goes to sleep}
 		
 		[MADELINE left deadpan]
-		{>> 0.4}Tɬ'onas ts'ipi, ukuk ɬatwa.
+		{>> 0.4}Tɬ'onas ts'ipi, chako ɬatwa yakwa.
 
 # *** Chapter 02 ***
 
